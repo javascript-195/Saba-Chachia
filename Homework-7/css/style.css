@@ -1,0 +1,31 @@
+/* Davaleba 1 */
+.firstdiv{
+    width: 700px;
+    height: 500px;
+}
+.firstimg{
+    width: 100%;
+    height:100%;
+}
+/* Davaleba 2 */
+.Redtxt{
+    color: red;
+}
+.Bluetxt{
+    color: blue;
+}
+.Greentxt{
+    color: green;
+}
+.colors{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+/* Davaleba 3 */
+.showhidebtns{
+    margin-top: 50px;
+     display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
